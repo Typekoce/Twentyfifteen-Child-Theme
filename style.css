@@ -64,15 +64,19 @@
 }
 
 .vacancy-layout-3 #eclipse_vacancy .vacancy-meta{
+	width: 100% !important;
 }
 
 .vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl{
+	width: 40%
 }
 
 .vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val{
+	width: 59%;
 }
 	
 .vacancy-layout-3 #eclipse_vacancy .vacancy-action{
+	float:left;
 }
 /** job details layout 3 **/
 	
