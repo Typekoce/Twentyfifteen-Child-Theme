@@ -108,6 +108,14 @@
 
 }
 
+#eclipse_job_board .vacancy-layout-1 .vacancy-meta .vac-lbl{
+
+}
+
+#eclipse_job_board .vacancy-layout-1  .vacancy-meta .vac-val{
+
+}
+
 #eclipse_job_board .vacancy-layout-1 .vacancy-action{
 
 }
@@ -120,18 +128,13 @@
 
 /** job board layout 2 **/
 #eclipse_job_board .vacancy-layout-2 .vacancy-meta{
-    margin: 0 !important;
-    width: 100% !important;
 }
 
 #eclipse_job_board .vacancy-layout-2 .vacancy-action{
-    margin: 0 !important;
-    width: 100% !important;
 }
 
 #eclipse_job_board .vacancy-layout-2 .vacancy-description {
-    margin: 0 !important;
-    width: 100% !important;
+
 }
 /** job board layout 2 **/
 	
