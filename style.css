@@ -22,12 +22,15 @@
 }
 
 .vacancy-layout-1 #eclipse_vacancy .vacancy-meta{
+
 }
 
 .vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl{
+	width:40%;
 }
 
 .vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val{
+	width:40%;
 }
 	
 .vacancy-layout-1 #eclipse_vacancy .vacancy-action{
